@@ -1,7 +1,7 @@
-streamlit
-scikit-learn
-pandas
-numpy
-joblib
-plotly
-india-housing-datasets
+india-housing-datasets==1.0.0
+joblib==1.5.3
+numpy==2.4.4
+pandas==3.0.2
+plotly==6.7.0
+scikit-learn==1.8.0
+streamlit==1.57.0
