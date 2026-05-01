@@ -12,7 +12,7 @@ from india_housing_datasets import load_housing
 
 # ─── Page Config ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Tri-City House Price Predictor",
+    page_title="PropIQ — House Price Predictor",
     page_icon="🏠",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -192,7 +192,7 @@ with st.sidebar:
 
 
 # ─── Header ───────────────────────────────────────────────────────────────────
-st.markdown("# 🏠 Tri-City House Price Predictor")
+st.markdown("# 🏠 PropIQ — Tri-City House Price Predictor")
 st.markdown("**Chandigarh · Mohali · Panchkula** — AI-powered real estate insights")
 st.markdown("---")
 
