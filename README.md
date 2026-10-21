@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[Try PropIQ Live](https://housepricepredictionv1.streamlit.app)**
+👉 **[Try PropIQ Live](https://propiqv1.streamlit.app)**
 
 ---
 
