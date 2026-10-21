@@ -160,6 +160,11 @@ def load_dataset():
     return df
 
 model, le = load_model_and_encoder()
+FEATURE_ORDER = list(model.feature_names_in_)
+
+def to_frame(row: dict) -> pd.DataFrame:
+    """Build a one-row DataFrame in the exact column order the model was trained on."""
+    return pd.DataFrame([row])[FEATURE_ORDER]
 df_raw = load_dataset()
 locality_list = sorted(df_raw["locality"].unique())
 
