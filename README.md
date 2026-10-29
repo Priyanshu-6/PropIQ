@@ -146,6 +146,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Priyanshu Rai** — [@Priyanshu-6](https://github.com/Priyanshu-6) 
 **Himanshu Garg** — [@himanshu120905](https://github.com/himanshu120905)
+
 ---
 
 <p align="center">Made with ❤️ for the Chandigarh real estate community</p>
